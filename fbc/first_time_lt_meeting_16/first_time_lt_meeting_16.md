@@ -78,7 +78,7 @@ style: |
 
 ---
 
-## 日報・分報あるある
+## 日報あるある
 
 ---
 
@@ -161,16 +161,13 @@ style: |
 
 <img src="./images/comment_from_betasan.png" alt="avatar" width="1100" />
 
-メモ: 定期的なイベント以下に赤下線追加
-輪読会
-
 ---
 
 ## 定期的なイベント...?🤔
 
 ---
 
-<img src="./images/Screenshot from 2025-06-13 22-53-13.png" alt="avatar" width="1000" />
+<img src="./images/fbc_study_groups.png" alt="avatar" width="1000" />
 
 ---
 
@@ -246,7 +243,7 @@ style: |
 
 ---
 
-## 大阪Ruby会議04
+<img src="./images/osrk_04.png" alt="avatar" width="1000" />
 
 ---
 
@@ -254,7 +251,7 @@ style: |
 
 ---
 
-<img src="./images/image.png" alt="avatar" width="1000" />
+<img src="./images/osrk_04_speakers.png" alt="avatar" width="1000" />
 
 ---
 
@@ -278,117 +275,101 @@ style: |
 
 ---
 
-## 初めて他のFBC生と会う機会
+## イベントに参加する内に
+
+## 顔を覚えてもらって
 
 ---
 
-<img src="./images/group_photo_location_in_osrk04.png" alt="avatar" width="800" />
+## そこから徐々に
+
+## つながりが広がった
 
 ---
 
-## 集合場所に行くと...
+## RubyKaigi2025事前勉強会
 
 ---
 
-## いない...???
+<img src="./images/rubykaigi_2025_prestudy_session.png" alt="avatar" width="1000" />
 
 ---
 
-<img src="./images/no_people_at_group_photo_location.png" alt="avatar" width="1000" />
+## 言語処理、面白そう！
 
 ---
 
-## 結局最後まで会えず😭
+## RubyKaigi Day1
 
 ---
 
-## カンファレンス自体はすごく楽しかった😃
+## フィヨブーハウスで
+
+## 言語処理の勉強
 
 ---
 
-## FBCミートアップにて
+## RubyKaigi Day2
 
-## 気づいてもらう方法を
-
-## 教えてもらった
+## しんめ.rbランチ会
 
 ---
 
-## 名札にシールを貼る
+<img src="./images/rubykaigi_2025_shinmerb_lunch_meetup.png" alt="avatar" width="1000" />
 
 ---
 
-名札にシール貼った写真
+## フィヨブーハウスでの
+
+## 言語処理の勉強について
+
+## 熱弁していると
 
 ---
 
-## NFCタグを作る
+## 言語処理に興味を持つ
+
+## 仲間ができた🥳
 
 ---
 
-NFCタグ写真
+## RubyKaigi終了後
 
 ---
 
-## 次こそは...🔥🔥
+## Shikumi.rb立ち上げ🎉
 
 ---
 
-## フィヨブーフェス
+<img src="./images/shikumirb_launch.png" alt="avatar" width="1000" />
 
 ---
 
-## Kaigi on Rails参加
+## 立ち上げの際にも
+
+## 皆さんに助けていただいた
 
 ---
 
-## 輪読会共同主催のお誘い
+## 自分から話しかけることは
+
+## 苦手だけど
 
 ---
 
-## ビブリオバトルに登壇
+## ワクワク駆動で
+
+## 行動していたら
 
 ---
 
-## 仲間が増える
+## つながりがいつの間にか
+
+## 大きくなっていた
 
 ---
 
-## RubyKaigi参加
-
----
-
-## 同じ技術好きの仲間ができる
-
----
-
-## 人見知りは克服できず
-
----
-
-## ただ、仲間はできた
-
----
-
-## 出来ないことより
-
-## 出来ることをやってみた
-
----
-
-## 出来ること
-
----
-
-## 興味があるイベントに参加
-
----
-
-## 技術イベント
-
----
-
-## キーボード仲間
+## 皆さんに本当に感謝🙏
 
 ---
 
