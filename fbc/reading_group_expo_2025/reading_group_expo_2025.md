@@ -31,7 +31,7 @@ style: |
 
 ---
 
-## 最近ハマっていること: Hollow Knight: Silksong
+## 趣味: ジョジョ、うなぎ
 
 ---
 
@@ -43,7 +43,7 @@ style: |
 
 ---
 
-## 趣味：サウナ、Podcast
+## 趣味: サウナ、Podcast
 
 ---
 
